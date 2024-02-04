@@ -1,0 +1,10 @@
+[package]
+name = "lab2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chatgpt_rs = "1.2.3"
+tokio = { version = "1", features = ["full"] }
