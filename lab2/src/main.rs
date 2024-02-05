@@ -1,6 +1,8 @@
 /*
     Clay Molitor
 
+    Call chatgpt to solve the entered deduction. 
+    Show steps an
     See lab report for details and explanation.
 */
 use chatgpt::{prelude::*, types::CompletionResponse};
@@ -24,7 +26,7 @@ async fn main() -> Result<()>{
     let mut user_deduction = String::new();
 
     println!("Enter a deduction.");
-    println!("Example: \n(m ∧ ¬b) → j\n(f ∨ s) → m\nb → t\nf → ¬t\nf\n∴ j");
+    println!("Example: \n(m ∧ ¬b) → j\n(f ∨ s) → m\nb → t\nf → ¬t\nf\n∴ j\n");
 
     while !user_deduction.contains("∴") {
 
@@ -41,14 +43,14 @@ async fn main() -> Result<()>{
     let client = ChatGPT::new_with_config(
         key,
         ModelConfigurationBuilder::default()
-            .temperature(1.0)
+            .temperature(0.1)
             .engine(ChatGPTEngine::Gpt4)
             .build()
             .unwrap(),
     )?;
     let response: CompletionResponse = client
         .send_message("Give a proof for deductions staring at the end and going to the top, telling me which rules are applied for each step. Don't print an introduction or conclusion. 
-        Print the output in a table. Please don't print a header for the table".to_owned()
+        Print the output in a table.".to_owned()
      + user_deduction.as_str())
         .await?;
 
@@ -59,7 +61,7 @@ async fn main() -> Result<()>{
     // Ask chatgpt if deduction is valid
     // TODO: use a smarter AI
     let response: CompletionResponse = client
-        .send_message("Is the deduction valid? answer valid or invalid".to_owned()
+        .send_message("Is the deduction valid? answer valid, invalid, or unknown".to_owned()
         + user_deduction.as_str())
         .await?;
     
