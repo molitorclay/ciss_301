@@ -117,6 +117,14 @@ fn remove_paragraphs(input: String) -> String {
         input
     }
 }
+fn remove_chars_before_comma(input: &str) -> &str {
+    if let Some(index) = input.find(',') {
+        &input[index + 1..]
+    } else {
+        input
+    }
+}
+
 // turns ascii into unicode logic symbols
 fn fancify_logic(expression: String) -> String {
     expression
