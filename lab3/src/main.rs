@@ -2,7 +2,7 @@
     Clay Molitor
     Lab 3 - Recursion, Series, Irrational Numbers
 
-    My program can calculate Factorials, Fibanacci, and PI for user input values.
+    My program can calculate Factorials, Fibonacci, and PI for user input values.
     See lab report for detailed writeup.
 */
 use num_bigint::BigUint;
@@ -22,7 +22,7 @@ fn user_input () {
         println!("
 Please choose a function to run by entering a number 1-3, or Q to exit.
 1) Factorial
-2) Fibinacci
+2) Fibonacci
 3) π");
 
         io::stdin()
@@ -86,21 +86,20 @@ fn number_from_console() -> usize
 fn factorial (n: usize) -> BigUint
 {       
     let mut result = BigUint::new(vec!(1)); 
-    let mut i = n;
 
-    while i > 1
+    for i in 0..n
     {
-        result = result * i;
-        i -=1;
+        result = result * (i+1);
+        //i -=1;
     }
     result
 }
-// Calculates fibinacci number at n
+// Calculates fibonacci number at n
 // Result can be arbitrarily large.
 fn fibonacci (n: usize) -> BigUint
 {       
-    let mut prever  = BigUint::new(vec!(1)); // n - 2
-    let mut prev    = BigUint::new(vec!(0)); // n - 1
+    let mut prever  = BigUint::new(vec!(0)); // n - 2
+    let mut prev    = BigUint::new(vec!(1)); // n - 1
     for _ in 0..n
     {
         let result = &prever + &prev;
