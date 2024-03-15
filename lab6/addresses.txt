@@ -1,0 +1,23 @@
+123 Main St, Anytown, NY, 12345
+
+456 Elm St Othertown CA, 98765
+
+883 Vanasse Rd Kettle Falls WA, 99141
+
+885 W Rocky Point Dr Camano Island WA 98282
+
+3706 Waterview Lane Santa Fe, NM, 87501
+
+3153 Winding Way Providence RI, 02908
+
+37 Chicory Rd
+Westford, MA, 01886
+
+10450 Monroe Rd
+Arlington TN 38002 
+
+8403 Colorado Springs Ave Blanca, Colorado, 81123
+
+5049 Livingston Chapel Rd Delco, North Carolina, 28436
+
+Po Box 2739 Ruidoso, New Mexico, 88355

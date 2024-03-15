@@ -1,0 +1,1001 @@
+[2023-01-21 01:03:14] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.1.csv
+[2023-01-21 02:05:14] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.yaml
+[2023-01-21 02:36:51] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.0.csv
+[2023-01-21 02:55:47] [v10.4.6]   [ERROR] [ID: 356] Failed to connect to logging database server at 211.102.216.203:55768
+[2023-01-21 03:50:28] [v10.4.6] [WARNING] [ID: 205] Log file log_2.log is over 5GB in size
+[2023-01-21 04:04:30] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_0.xml
+[2023-01-21 04:12:33] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.log
+[2023-01-21 04:16:41] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log_6.toml - insufficient permissions
+[2023-01-21 04:17:41] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-0.yml
+[2023-01-21 05:32:59] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.log
+[2023-01-21 07:07:19] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log2.conf
+[2023-01-21 07:10:09] [v10.4.6] [WARNING] [ID: 205] Log file log-1.xml is over 5GB in size
+[2023-01-21 07:13:13] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.json
+[2023-01-21 07:20:25] [v10.4.6] [WARNING] [ID: 201] Log file log.7.yaml is over 1GB in size
+[2023-01-21 07:48:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.yml
+[2023-01-21 07:59:34] [v10.4.6] [WARNING] [ID: 260] Log file log.5.yaml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-21 08:15:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.xml
+[2023-01-21 08:38:36] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.txt
+[2023-01-21 08:49:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.yaml
+[2023-01-21 09:01:19] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log3.csv
+[2023-01-21 09:04:37] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 228.118.37.141:12759
+[2023-01-21 09:08:32] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log1.txt
+[2023-01-21 10:27:09] [v10.4.6] [WARNING] [ID: 205] Log file log.9.json is over 5GB in size
+[2023-01-21 10:57:42] [v10.4.6]    [INFO] [ID: 155] Generated log file log-8.yaml
+[2023-01-21 11:18:05] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log2.csv
+[2023-01-21 12:06:11] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.toml
+[2023-01-21 12:26:04] [v10.4.6] [WARNING] [ID: 205] Log file log-1.ini is over 5GB in size
+[2023-01-21 12:28:19] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-8.xml
+[2023-01-21 12:39:29] [v10.4.6] [WARNING] [ID: 295] New updates are available, restart the logging process to apply them
+[2023-01-21 12:44:31] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log_9.xml - insufficient permissions
+[2023-01-21 12:55:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.csv
+[2023-01-21 13:18:41] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log-5.toml - insufficient permissions
+[2023-01-21 13:39:45] [v10.4.6] [WARNING] [ID: 205] Log file log-3.yaml is over 5GB in size
+[2023-01-21 14:20:26] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-21 14:24:43] [v10.4.6] [WARNING] [ID: 205] Log file log-1.json is over 5GB in size
+[2023-01-21 15:19:40] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_5.yaml
+[2023-01-21 15:23:55] [v10.4.6] [WARNING] [ID: 201] Log file log_8.xml is over 1GB in size
+[2023-01-21 15:26:21] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log6
+[2023-01-21 15:26:38] [v10.4.6] [WARNING] [ID: 260] Log file log-7.txt has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-21 15:34:36] [v10.4.6] [WARNING] [ID: 201] Log file log-6.json is over 1GB in size
+[2023-01-21 15:37:23] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.6.txt
+[2023-01-21 16:26:24] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.txt
+[2023-01-21 17:15:12] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.csv
+[2023-01-21 17:23:38] [v10.4.6] [WARNING] [ID: 298] Logging process has been resumed by administrator
+[2023-01-21 17:36:43] [v10.4.6] [WARNING] [ID: 201] Log file log_9.toml is over 1GB in size
+[2023-01-21 18:22:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0
+[2023-01-21 18:40:10] [v10.4.6] [WARNING] [ID: 210] Log file log.6.log is over 10GB in size
+[2023-01-21 19:18:52] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.4.xml
+[2023-01-21 19:38:48] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.yml
+[2023-01-21 20:04:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.txt
+[2023-01-21 20:27:55] [v10.4.6]    [INFO] [ID: 104] Log file log-1.toml has been archived and compressed
+[2023-01-21 20:53:50] [v10.4.6] [WARNING] [ID: 260] Log file log7.ini has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-21 21:14:38] [v10.4.6] [WARNING] [ID: 201] Log file log-2.conf is over 1GB in size
+[2023-01-21 22:00:05] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log.4.json
+[2023-01-21 22:24:58] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-21 23:58:51] [v10.4.6] [WARNING] [ID: 205] Log file log_2.txt is over 5GB in size
+[2023-01-22 00:33:05] [v10.4.6] [WARNING] [ID: 201] Log file log_6.txt is over 1GB in size
+[2023-01-22 01:02:37] [v10.4.6]   [ERROR] [ID: 340] Log file log_9.csv is not in a recognized encoding
+[2023-01-22 02:03:25] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_7.json
+[2023-01-22 02:10:34] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log5.txt
+[2023-01-22 02:36:06] [v10.4.6] [WARNING] [ID: 205] Log file log-6.txt is over 5GB in size
+[2023-01-22 02:46:03] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.log
+[2023-01-22 03:14:11] [v10.4.6]   [ERROR] [ID: 340] Log file log7.csv is not in a recognized encoding
+[2023-01-22 03:27:46] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.2.yml
+[2023-01-22 04:59:09] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-0.csv
+[2023-01-22 05:16:54] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.4
+[2023-01-22 05:27:21] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_7.csv
+[2023-01-22 05:30:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7
+[2023-01-22 05:34:43] [v10.4.6] [WARNING] [ID: 240] Log file log-8.yaml is not in a recognized file format
+[2023-01-22 06:12:15] [v10.4.6] [WARNING] [ID: 260] Log file log_3.yaml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-22 06:14:12] [v10.4.6]   [ERROR] [ID: 340] Log file log-4.txt is not in a recognized encoding
+[2023-01-22 06:17:48] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.toml
+[2023-01-22 07:30:22] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.xml
+[2023-01-22 08:04:31] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-6.json
+[2023-01-22 08:26:29] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.xml
+[2023-01-22 08:45:45] [v10.4.6] [WARNING] [ID: 201] Log file log.5.xml is over 1GB in size
+[2023-01-22 09:16:08] [v10.4.6] [WARNING] [ID: 201] Log file log-7.toml is over 1GB in size
+[2023-01-22 10:12:33] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_6.yaml
+[2023-01-22 10:47:28] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_1.ini
+[2023-01-22 10:49:11] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 111.92.160.70:12254
+[2023-01-22 10:52:26] [v10.4.6] [WARNING] [ID: 201] Log file log_2.txt is over 1GB in size
+[2023-01-22 10:56:49] [v10.4.6]    [INFO] [ID: 140] Using UTF-16 encoding for log file log_0.csv
+[2023-01-22 11:25:14] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log-6.yaml - insufficient permissions
+[2023-01-22 11:50:12] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.log
+[2023-01-22 11:55:51] [v10.4.6] [WARNING] [ID: 260] Log file log_9.toml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-22 12:04:08] [v10.4.6] [WARNING] [ID: 260] Log file log.9.json has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-22 12:05:11] [v10.4.6]    [INFO] [ID: 155] Generated log file log-8.xml
+[2023-01-22 12:19:32] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.3.log
+[2023-01-22 12:36:10] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.xml
+[2023-01-22 12:39:50] [v10.4.6] [WARNING] [ID: 210] Log file log-9.txt is over 10GB in size
+[2023-01-22 13:00:49] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.csv
+[2023-01-22 13:11:58] [v10.4.6] [WARNING] [ID: 235] Log file log_3.yaml appears to have been manually edited
+[2023-01-22 13:21:13] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.json
+[2023-01-22 13:22:27] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log7.ini
+[2023-01-22 13:41:11] [v10.4.6] [WARNING] [ID: 205] Log file log-3.txt is over 5GB in size
+[2023-01-22 14:23:34] [v10.4.6] [WARNING] [ID: 205] Log file log-6.txt is over 5GB in size
+[2023-01-22 14:28:28] [v10.4.6] [WARNING] [ID: 201] Log file log.5.xml is over 1GB in size
+[2023-01-22 14:48:53] [v10.4.6]    [INFO] [ID: 155] Generated log file log-1.txt
+[2023-01-22 14:56:56] [v10.4.6] [WARNING] [ID: 205] Log file log.8.log is over 5GB in size
+[2023-01-22 15:17:34] [v10.4.6]   [ERROR] [ID: 356] Failed to connect to logging database server at 46.6.137.30:59250
+[2023-01-22 15:42:23] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.8.yaml
+[2023-01-22 15:48:17] [v10.4.6] [WARNING] [ID: 290] Logging process has been running for 7 days
+[2023-01-22 16:18:08] [v10.4.6] [WARNING] [ID: 260] Log file log-2.log has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-22 16:24:56] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log_2
+[2023-01-22 16:31:31] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.log
+[2023-01-22 17:30:18] [v10.4.6] [WARNING] [ID: 210] Log file log_7.csv is over 10GB in size
+[2023-01-22 18:08:25] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.9.yaml
+[2023-01-22 18:28:15] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.json
+[2023-01-22 19:14:03] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.txt
+[2023-01-22 20:43:42] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-2.yml
+[2023-01-22 20:47:54] [v10.4.6] [WARNING] [ID: 290] Logging process has been running for 6 days
+[2023-01-22 21:05:53] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_6.yaml
+[2023-01-22 21:23:01] [v10.4.6] [WARNING] [ID: 205] Log file log.7.txt is over 5GB in size
+[2023-01-22 21:51:46] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.0.json
+[2023-01-22 22:41:24] [v10.4.6]    [INFO] [ID: 155] Generated log file log-2
+[2023-01-22 22:41:34] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-22 22:42:40] [v10.4.6] [WARNING] [ID: 205] Log file log.7.toml is over 5GB in size
+[2023-01-22 22:45:19] [v10.4.6] [WARNING] [ID: 205] Log file log_5.txt is over 5GB in size
+[2023-01-22 23:45:38] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.txt
+[2023-01-23 00:28:41] [v10.4.6] [WARNING] [ID: 240] Log file log.4.log is not in a recognized file format
+[2023-01-23 01:28:24] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log-0.yaml - insufficient permissions
+[2023-01-23 01:56:20] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_1.log
+[2023-01-23 01:58:32] [v10.4.6] [WARNING] [ID: 235] Log file log_7.xml appears to have been manually edited
+[2023-01-23 02:26:03] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_0.csv
+[2023-01-23 02:31:43] [v10.4.6] [WARNING] [ID: 210] Log file log-3.toml is over 10GB in size
+[2023-01-23 03:55:38] [v10.4.6]    [INFO] [ID: 155] Generated log file log_7.json
+[2023-01-23 04:05:22] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log_1.conf - insufficient permissions
+[2023-01-23 04:25:16] [v10.4.6] [WARNING] [ID: 201] Log file log.4.ini is over 1GB in size
+[2023-01-23 05:13:12] [v10.4.6] [WARNING] [ID: 201] Log file log.4.yaml is over 1GB in size
+[2023-01-23 05:13:36] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.log
+[2023-01-23 05:58:26] [v10.4.6] [WARNING] [ID: 210] Log file log.0.yaml is over 10GB in size
+[2023-01-23 06:20:05] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.csv
+[2023-01-23 06:20:05] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.yaml
+[2023-01-23 06:20:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.log
+[2023-01-23 06:26:22] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.json
+[2023-01-23 06:29:53] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-9.log
+[2023-01-23 06:36:19] [v10.4.6] [WARNING] [ID: 205] Log file log_9.csv is over 5GB in size
+[2023-01-23 06:47:34] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.yaml
+[2023-01-23 06:55:53] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.log
+[2023-01-23 07:13:51] [v10.4.6] [WARNING] [ID: 201] Log file log0.txt is over 1GB in size
+[2023-01-23 07:38:37] [v10.4.6]   [ERROR] [ID: 340] Log file log_7.toml is not in a recognized encoding
+[2023-01-23 08:06:01] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_3.log
+[2023-01-23 08:18:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.txt
+[2023-01-23 08:38:44] [v10.4.6] [WARNING] [ID: 201] Log file log-0.yaml is over 1GB in size
+[2023-01-23 09:55:33] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-23 10:55:39] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 11.58.233.51:12354
+[2023-01-23 12:49:42] [v10.4.6] [WARNING] [ID: 205] Log file log-2.json is over 5GB in size
+[2023-01-23 12:50:15] [v10.4.6] [WARNING] [ID: 201] Log file log_7.yaml is over 1GB in size
+[2023-01-23 13:03:24] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log1.txt
+[2023-01-23 13:38:11] [v10.4.6]    [INFO] [ID: 155] Generated log file log.0.yaml
+[2023-01-23 15:00:10] [v10.4.6]   [ERROR] [ID: 395] Version is no longer supported, please update to the latest version
+[2023-01-23 16:02:23] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.ini
+[2023-01-23 16:02:59] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_1.conf
+[2023-01-23 16:21:30] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.0.log
+[2023-01-23 16:42:21] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.json
+[2023-01-23 17:04:25] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log6
+[2023-01-23 18:07:53] [v10.4.6] [WARNING] [ID: 205] Log file log4 is over 5GB in size
+[2023-01-23 18:17:21] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.xml
+[2023-01-23 18:33:19] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.json
+[2023-01-23 18:35:45] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.log
+[2023-01-23 18:58:12] [v10.4.6] [WARNING] [ID: 235] Log file log.4.yml appears to have been manually edited
+[2023-01-23 19:24:35] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_3.txt
+[2023-01-23 19:29:04] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 190.62.70.78:59854
+[2023-01-23 19:57:02] [v10.4.6] [WARNING] [ID: 205] Log file log-4.yaml is over 5GB in size
+[2023-01-23 20:09:05] [v10.4.6]    [INFO] [ID: 155] Generated log file log_8.json
+[2023-01-23 20:22:17] [v10.4.6] [WARNING] [ID: 205] Log file log.3.conf is over 5GB in size
+[2023-01-23 20:56:59] [v10.4.6]    [INFO] [ID: 155] Generated log file log-9.txt
+[2023-01-23 21:25:46] [v10.4.6] [WARNING] [ID: 205] Log file log-1.txt is over 5GB in size
+[2023-01-23 21:40:21] [v10.4.6] [WARNING] [ID: 201] Log file log.4.yaml is over 1GB in size
+[2023-01-23 21:47:38] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-2
+[2023-01-23 21:59:33] [v10.4.6] [WARNING] [ID: 260] Log file log_4.xml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-23 22:00:01] [v10.4.6] [WARNING] [ID: 201] Log file log_5.csv is over 1GB in size
+[2023-01-23 22:38:56] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-23 22:45:10] [v10.4.6] [WARNING] [ID: 201] Log file log_0.yaml is over 1GB in size
+[2023-01-23 23:22:43] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-7.toml
+[2023-01-23 23:45:03] [v10.4.6] [WARNING] [ID: 201] Log file log_9.txt is over 1GB in size
+[2023-01-23 23:46:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.ini
+[2023-01-24 00:12:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.log
+[2023-01-24 00:46:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.2.csv
+[2023-01-24 00:47:28] [v10.4.6] [WARNING] [ID: 240] Log file log.5.xml is not in a recognized file format
+[2023-01-24 01:06:30] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_5.yml
+[2023-01-24 01:24:38] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.conf
+[2023-01-24 01:34:25] [v10.4.6] [WARNING] [ID: 201] Log file log.7.txt is over 1GB in size
+[2023-01-24 01:35:42] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log8.xml
+[2023-01-24 02:31:27] [v10.4.6]    [INFO] [ID: 155] Generated log file log3.log
+[2023-01-24 02:39:04] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.toml
+[2023-01-24 02:58:00] [v10.4.6] [WARNING] [ID: 205] Log file log_6.log is over 5GB in size
+[2023-01-24 03:20:42] [v10.4.6] [WARNING] [ID: 298] Logging process has been resumed by administrator
+[2023-01-24 03:37:45] [v10.4.6] [WARNING] [ID: 210] Log file log_5.conf is over 10GB in size
+[2023-01-24 04:08:31] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.2.yaml
+[2023-01-24 04:19:34] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.txt
+[2023-01-24 04:41:17] [v10.4.6]   [ERROR] [ID: 340] Log file log7.log is not in a recognized encoding
+[2023-01-24 04:56:55] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log0.yml
+[2023-01-24 05:02:12] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.txt
+[2023-01-24 05:19:18] [v10.4.6] [WARNING] [ID: 260] Log file log.2.log has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-24 05:30:37] [v10.4.6]    [INFO] [ID: 155] Generated log file log3.csv
+[2023-01-24 05:39:24] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.0.txt
+[2023-01-24 05:42:04] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.json
+[2023-01-24 06:37:38] [v10.4.6]    [INFO] [ID: 155] Generated log file log.2.conf
+[2023-01-24 06:37:55] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.log
+[2023-01-24 06:45:02] [v10.4.6] [WARNING] [ID: 205] Log file log_0.txt is over 5GB in size
+[2023-01-24 06:58:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.txt
+[2023-01-24 07:14:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.yaml
+[2023-01-24 07:35:39] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.txt
+[2023-01-24 07:36:12] [v10.4.6] [WARNING] [ID: 205] Log file log-2.log is over 5GB in size
+[2023-01-24 07:45:11] [v10.4.6] [WARNING] [ID: 260] Log file log_0.txt has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-24 07:51:20] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.3.yaml
+[2023-01-24 09:39:29] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log3.txt
+[2023-01-24 10:20:11] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_4.json
+[2023-01-24 10:30:22] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log-0.txt
+[2023-01-24 11:09:29] [v10.4.6] [WARNING] [ID: 240] Log file log-3.csv is not in a recognized file format
+[2023-01-24 11:22:43] [v10.4.6] [WARNING] [ID: 205] Log file log0.txt is over 5GB in size
+[2023-01-24 11:39:52] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-2.ini
+[2023-01-24 11:47:47] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_6.csv
+[2023-01-24 12:07:32] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.5.toml
+[2023-01-24 12:46:12] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log8.yaml - file is corrupted
+[2023-01-24 13:03:49] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.json
+[2023-01-24 13:11:42] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.yaml
+[2023-01-24 13:48:19] [v10.4.6] [WARNING] [ID: 201] Log file log_9.txt is over 1GB in size
+[2023-01-24 14:04:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.json
+[2023-01-24 14:19:45] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log2.txt
+[2023-01-24 14:22:11] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.txt
+[2023-01-24 15:19:09] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.txt
+[2023-01-24 15:33:08] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.txt
+[2023-01-24 15:39:08] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.toml
+[2023-01-24 15:59:59] [v10.4.6]   [ERROR] [ID: 340] Log file log-7.txt is not in a recognized encoding
+[2023-01-24 16:25:18] [v10.4.6] [WARNING] [ID: 201] Log file log-3.txt is over 1GB in size
+[2023-01-24 17:05:20] [v10.4.6]    [INFO] [ID: 155] Generated log file log.8.csv
+[2023-01-24 17:20:10] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.txt
+[2023-01-24 17:35:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.csv
+[2023-01-24 17:37:23] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.txt
+[2023-01-24 18:08:18] [v10.4.6]    [INFO] [ID: 155] Generated log file log-3
+[2023-01-24 18:13:25] [v10.4.6] [WARNING] [ID: 201] Log file log-8.yaml is over 1GB in size
+[2023-01-24 18:46:48] [v10.4.6]    [INFO] [ID: 155] Generated log file log.0.log
+[2023-01-24 18:55:27] [v10.4.6] [WARNING] [ID: 290] Logging process has been running for 19 days
+[2023-01-24 19:20:44] [v10.4.6] [WARNING] [ID: 205] Log file log_0.json is over 5GB in size
+[2023-01-24 19:34:02] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_0.log
+[2023-01-24 20:16:16] [v10.4.6]    [INFO] [ID: 155] Generated log file log_0.txt
+[2023-01-24 20:41:18] [v10.4.6] [WARNING] [ID: 205] Log file log4.json is over 5GB in size
+[2023-01-24 20:56:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.8.yaml
+[2023-01-24 21:56:23] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.json
+[2023-01-24 22:07:55] [v10.4.6] [WARNING] [ID: 205] Log file log_4.log is over 5GB in size
+[2023-01-24 22:11:45] [v10.4.6]    [INFO] [ID: 155] Generated log file log.3.log
+[2023-01-24 22:21:31] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.yml
+[2023-01-24 22:35:14] [v10.4.6]    [INFO] [ID: 155] Generated log file log-0
+[2023-01-24 22:41:58] [v10.4.6]    [INFO] [ID: 155] Generated log file log.0.json
+[2023-01-24 22:46:29] [v10.4.6]    [INFO] [ID: 155] Generated log file log_4.txt
+[2023-01-24 22:51:29] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log0
+[2023-01-24 23:03:34] [v10.4.6] [WARNING] [ID: 201] Log file log-9.log is over 1GB in size
+[2023-01-25 01:02:06] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-25 01:30:46] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.txt
+[2023-01-25 01:32:03] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.log
+[2023-01-25 01:42:47] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-4
+[2023-01-25 02:12:50] [v10.4.6] [WARNING] [ID: 260] Log file log.2.txt has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-25 02:48:16] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_1.txt
+[2023-01-25 03:55:37] [v10.4.6] [WARNING] [ID: 201] Log file log_5.yaml is over 1GB in size
+[2023-01-25 04:40:49] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.csv
+[2023-01-25 04:53:40] [v10.4.6] [WARNING] [ID: 260] Log file log0.txt has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-25 06:29:33] [v10.4.6]   [ERROR] [ID: 356] Failed to connect to logging database server at 238.80.19.60:832
+[2023-01-25 06:49:55] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_1.yaml
+[2023-01-25 06:56:39] [v10.4.6]   [ERROR] [ID: 340] Log file log-8.yaml is not in a recognized encoding
+[2023-01-25 06:59:54] [v10.4.6] [WARNING] [ID: 260] Log file log_6.yaml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-25 07:26:22] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.csv
+[2023-01-25 07:26:54] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.yaml
+[2023-01-25 08:33:00] [v10.4.6] [WARNING] [ID: 260] Log file log_1 has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-25 09:00:42] [v10.4.6] [WARNING] [ID: 210] Log file log-1.yml is over 10GB in size
+[2023-01-25 10:14:33] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log_9.txt - insufficient permissions
+[2023-01-25 10:14:37] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log7.toml
+[2023-01-25 10:50:48] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-2
+[2023-01-25 10:52:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.conf
+[2023-01-25 10:58:13] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.csv
+[2023-01-25 11:38:30] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-8
+[2023-01-25 11:39:39] [v10.4.6] [WARNING] [ID: 205] Log file log_4.log is over 5GB in size
+[2023-01-25 11:53:40] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.yaml
+[2023-01-25 12:08:40] [v10.4.6]    [INFO] [ID: 104] Log file log-0.txt has been archived and compressed
+[2023-01-25 13:05:10] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.yml
+[2023-01-25 14:06:30] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.ini
+[2023-01-25 14:07:57] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.json
+[2023-01-25 16:01:50] [v10.4.6] [WARNING] [ID: 201] Log file log-5.ini is over 1GB in size
+[2023-01-25 16:05:27] [v10.4.6]   [ERROR] [ID: 340] Log file log-2.yaml is not in a recognized encoding
+[2023-01-25 16:12:23] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.4.log
+[2023-01-25 17:32:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.txt
+[2023-01-25 17:38:52] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-6.csv
+[2023-01-25 17:39:52] [v10.4.6]   [CRITICAL] [ID: 666] YOUR COMPUTER IS HACKED
+[2023-01-25 17:44:07] [v10.4.6] [WARNING] [ID: 235] Log file log-1.json appears to have been manually edited
+[2023-01-25 18:03:22] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.4.json
+[2023-01-25 18:21:34] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_7.json
+[2023-01-25 18:50:15] [v10.4.6] [WARNING] [ID: 260] Log file log-8.log has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-25 19:18:52] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_3.json
+[2023-01-25 19:20:43] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.toml
+[2023-01-25 19:47:38] [v10.4.6] [WARNING] [ID: 210] Log file log.8.toml is over 10GB in size
+[2023-01-25 20:01:49] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.json
+[2023-01-25 21:11:48] [v10.4.6] [WARNING] [ID: 205] Log file log.5.csv is over 5GB in size
+[2023-01-25 21:15:58] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.yaml
+[2023-01-25 21:46:01] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5
+[2023-01-25 22:23:14] [v10.4.6] [WARNING] [ID: 210] Log file log.9.toml is over 10GB in size
+[2023-01-25 22:24:26] [v10.4.6] [WARNING] [ID: 201] Log file log2 is over 1GB in size
+[2023-01-25 23:03:53] [v10.4.6] [WARNING] [ID: 260] Log file log.0.yml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-25 23:04:24] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.csv
+[2023-01-25 23:04:31] [v10.4.6] [WARNING] [ID: 210] Log file log-0.xml is over 10GB in size
+[2023-01-25 23:16:40] [v10.4.6] [WARNING] [ID: 205] Log file log_1.yml is over 5GB in size
+[2023-01-25 23:18:39] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log8.yaml
+[2023-01-25 23:41:42] [v10.4.6] [WARNING] [ID: 201] Log file log-3.txt is over 1GB in size
+[2023-01-26 00:26:12] [v10.4.6] [WARNING] [ID: 210] Log file log-0.ini is over 10GB in size
+[2023-01-26 00:53:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.conf
+[2023-01-26 01:10:40] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.xml
+[2023-01-26 01:13:39] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log2.txt
+[2023-01-26 01:39:18] [v10.4.6] [WARNING] [ID: 260] Log file log-9.yaml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-26 01:40:33] [v10.4.6] [WARNING] [ID: 201] Log file log-6.log is over 1GB in size
+[2023-01-26 02:04:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.json
+[2023-01-26 02:32:50] [v10.4.6]    [INFO] [ID: 155] Generated log file log-1.txt
+[2023-01-26 02:41:42] [v10.4.6] [WARNING] [ID: 240] Log file log_1.txt is not in a recognized file format
+[2023-01-26 02:47:43] [v10.4.6] [WARNING] [ID: 205] Log file log-2.yaml is over 5GB in size
+[2023-01-26 03:25:38] [v10.4.6]   [ERROR] [ID: 395] Version is no longer supported, please update to the latest version
+[2023-01-26 04:00:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.toml
+[2023-01-26 04:13:41] [v10.4.6]   [ERROR] [ID: 395] Version is no longer supported, please update to the latest version
+[2023-01-26 04:37:49] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log9.xml
+[2023-01-26 06:01:13] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.txt
+[2023-01-26 06:14:59] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.toml
+[2023-01-26 07:38:08] [v10.4.6] [WARNING] [ID: 201] Log file log.2.toml is over 1GB in size
+[2023-01-26 08:15:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.json
+[2023-01-26 08:41:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.txt
+[2023-01-26 09:03:23] [v10.4.6] [WARNING] [ID: 201] Log file log-9.ini is over 1GB in size
+[2023-01-26 09:03:35] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.1.txt
+[2023-01-26 09:12:13] [v10.4.6] [WARNING] [ID: 205] Log file log_6.txt is over 5GB in size
+[2023-01-26 09:24:13] [v10.4.6] [WARNING] [ID: 201] Log file log-5.txt is over 1GB in size
+[2023-01-26 09:24:26] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.2.txt
+[2023-01-26 09:31:35] [v10.4.6]    [INFO] [ID: 155] Generated log file log-5.yaml
+[2023-01-26 09:55:53] [v10.4.6] [WARNING] [ID: 210] Log file log2.yaml is over 10GB in size
+[2023-01-26 10:20:54] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.log
+[2023-01-26 10:55:10] [v10.4.6] [WARNING] [ID: 201] Log file log_1.txt is over 1GB in size
+[2023-01-26 11:02:09] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.yml
+[2023-01-26 11:34:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.json
+[2023-01-26 11:44:17] [v10.4.6] [WARNING] [ID: 205] Log file log-9.json is over 5GB in size
+[2023-01-26 11:50:41] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log-4.xml
+[2023-01-26 12:08:57] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_5.log
+[2023-01-26 12:57:01] [v10.4.6] [WARNING] [ID: 240] Log file log.5.yml is not in a recognized file format
+[2023-01-26 13:04:54] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log3.log
+[2023-01-26 13:46:30] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log0.log
+[2023-01-26 13:58:41] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_6.csv
+[2023-01-26 14:13:30] [v10.4.6]   [ERROR] [ID: 340] Log file log-8.txt is not in a recognized encoding
+[2023-01-26 14:15:43] [v10.4.6] [WARNING] [ID: 201] Log file log_1.log is over 1GB in size
+[2023-01-26 14:24:48] [v10.4.6] [WARNING] [ID: 235] Log file log-3.json appears to have been manually edited
+[2023-01-26 14:44:01] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-0.json
+[2023-01-26 15:50:58] [v10.4.6] [WARNING] [ID: 201] Log file log.0.csv is over 1GB in size
+[2023-01-26 17:31:13] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.yaml
+[2023-01-26 17:55:12] [v10.4.6] [WARNING] [ID: 260] Log file log.8.yaml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-26 18:00:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.yaml
+[2023-01-26 18:13:57] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-26 18:30:53] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.csv
+[2023-01-26 19:03:27] [v10.4.6] [WARNING] [ID: 260] Log file log_2.csv has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-26 19:28:23] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.0
+[2023-01-26 20:00:26] [v10.4.6]    [INFO] [ID: 155] Generated log file log_0.csv
+[2023-01-26 20:03:03] [v10.4.6] [WARNING] [ID: 235] Log file log_2.txt appears to have been manually edited
+[2023-01-26 20:32:24] [v10.4.6] [WARNING] [ID: 201] Log file log-3.yml is over 1GB in size
+[2023-01-26 20:36:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.9.ini
+[2023-01-26 21:44:11] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.json
+[2023-01-26 21:48:09] [v10.4.6] [WARNING] [ID: 210] Log file log.6.json is over 10GB in size
+[2023-01-26 21:50:56] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_1.txt
+[2023-01-26 22:24:30] [v10.4.6] [WARNING] [ID: 205] Log file log.2.log is over 5GB in size
+[2023-01-26 22:25:26] [v10.4.6] [WARNING] [ID: 240] Log file log-5.ini is not in a recognized file format
+[2023-01-26 22:33:23] [v10.4.6]    [INFO] [ID: 155] Generated log file log-1.yaml
+[2023-01-26 22:35:51] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-26 22:46:15] [v10.4.6] [WARNING] [ID: 210] Log file log.8.conf is over 10GB in size
+[2023-01-27 00:10:42] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_9.log
+[2023-01-27 00:10:47] [v10.4.6] [WARNING] [ID: 205] Log file log.5.json is over 5GB in size
+[2023-01-27 00:21:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log1.txt
+[2023-01-27 00:29:36] [v10.4.6] [WARNING] [ID: 205] Log file log-1.yaml is over 5GB in size
+[2023-01-27 01:15:06] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_6.log
+[2023-01-27 01:45:49] [v10.4.6]   [ERROR] [ID: 340] Log file log-1.log is not in a recognized encoding
+[2023-01-27 02:16:00] [v10.4.6] [WARNING] [ID: 201] Log file log_6.csv is over 1GB in size
+[2023-01-27 02:22:49] [v10.4.6] [WARNING] [ID: 201] Log file log-3.ini is over 1GB in size
+[2023-01-27 02:48:17] [v10.4.6]    [INFO] [ID: 155] Generated log file log-8.txt
+[2023-01-27 03:32:09] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log-2.conf - insufficient permissions
+[2023-01-27 03:42:16] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-2.log
+[2023-01-27 04:43:03] [v10.4.6]   [ERROR] [ID: 340] Log file log-9.txt is not in a recognized encoding
+[2023-01-27 04:44:38] [v10.4.6] [WARNING] [ID: 298] Logging process has been resumed by administrator
+[2023-01-27 05:19:23] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_4.json
+[2023-01-27 05:26:51] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.yaml
+[2023-01-27 05:30:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.0.xml
+[2023-01-27 05:30:45] [v10.4.6] [WARNING] [ID: 201] Log file log-3.json is over 1GB in size
+[2023-01-27 05:45:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.5.txt
+[2023-01-27 05:47:38] [v10.4.6]    [INFO] [ID: 155] Generated log file log-1.conf
+[2023-01-27 06:34:36] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.8.yaml
+[2023-01-27 06:47:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.txt
+[2023-01-27 07:00:01] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log.8.csv - disk full
+[2023-01-27 07:08:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.json
+[2023-01-27 07:16:52] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.1.yaml
+[2023-01-27 07:41:11] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_7.txt
+[2023-01-27 08:01:56] [v10.4.6] [WARNING] [ID: 260] Log file log_2.log has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-27 08:16:03] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.xml
+[2023-01-27 08:42:59] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.csv
+[2023-01-27 09:11:30] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.json
+[2023-01-27 09:33:49] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.3.toml
+[2023-01-27 09:38:35] [v10.4.6] [WARNING] [ID: 260] Log file log-1.yml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-27 09:56:43] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_6.json
+[2023-01-27 10:01:39] [v10.4.6]   [ERROR] [ID: 340] Log file log.4.txt is not in a recognized encoding
+[2023-01-27 10:20:40] [v10.4.6] [WARNING] [ID: 210] Log file log-1.txt is over 10GB in size
+[2023-01-27 11:00:28] [v10.4.6] [WARNING] [ID: 201] Log file log.3.conf is over 1GB in size
+[2023-01-27 11:06:16] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.3.txt
+[2023-01-27 11:15:52] [v10.4.6] [WARNING] [ID: 235] Log file log.9.csv appears to have been manually edited
+[2023-01-27 11:54:51] [v10.4.6] [WARNING] [ID: 205] Log file log-8.json is over 5GB in size
+[2023-01-27 12:00:45] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.txt
+[2023-01-27 12:02:28] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-2.yaml
+[2023-01-27 12:23:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.5.yml
+[2023-01-27 13:02:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.toml
+[2023-01-27 13:03:15] [v10.4.6] [WARNING] [ID: 210] Log file log_2.log is over 10GB in size
+[2023-01-27 13:32:44] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.toml
+[2023-01-27 13:52:28] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.csv
+[2023-01-27 14:10:24] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.ini
+[2023-01-27 14:10:29] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.log
+[2023-01-27 14:33:09] [v10.4.6]   [ERROR] [ID: 340] Log file log_6.yml is not in a recognized encoding
+[2023-01-27 15:04:57] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.txt
+[2023-01-27 15:11:23] [v10.4.6] [WARNING] [ID: 298] Logging process has been resumed by administrator
+[2023-01-27 15:33:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.yaml
+[2023-01-27 15:48:55] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_7.txt
+[2023-01-27 16:19:24] [v10.4.6] [WARNING] [ID: 205] Log file log.5.yml is over 5GB in size
+[2023-01-27 16:46:23] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_1.yaml
+[2023-01-27 16:58:59] [v10.4.6] [WARNING] [ID: 205] Log file log.0.csv is over 5GB in size
+[2023-01-27 17:49:28] [v10.4.6] [WARNING] [ID: 201] Log file log-1.ini is over 1GB in size
+[2023-01-27 17:54:59] [v10.4.6]    [INFO] [ID: 155] Generated log file log3.log
+[2023-01-27 18:26:48] [v10.4.6] [WARNING] [ID: 210] Log file log4.xml is over 10GB in size
+[2023-01-27 18:35:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.toml
+[2023-01-27 18:50:31] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.xml
+[2023-01-27 19:05:33] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.csv
+[2023-01-27 19:11:22] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.yml
+[2023-01-27 19:13:25] [v10.4.6] [WARNING] [ID: 235] Log file log_9.conf appears to have been manually edited
+[2023-01-27 19:23:28] [v10.4.6]   [ERROR] [ID: 340] Log file log_4.txt is not in a recognized encoding
+[2023-01-27 19:23:59] [v10.4.6]    [INFO] [ID: 104] Log file log.0.txt has been archived and compressed
+[2023-01-27 19:28:14] [v10.4.6] [WARNING] [ID: 235] Log file log_3.ini appears to have been manually edited
+[2023-01-27 19:31:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.2.yaml
+[2023-01-27 19:31:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.5.txt
+[2023-01-27 20:15:21] [v10.4.6]    [INFO] [ID: 155] Generated log file log_7.txt
+[2023-01-27 20:16:34] [v10.4.6]   [ERROR] [ID: 340] Log file log_1.json is not in a recognized encoding
+[2023-01-27 20:20:13] [v10.4.6] [WARNING] [ID: 205] Log file log-9.csv is over 5GB in size
+[2023-01-27 20:24:36] [v10.4.6] [WARNING] [ID: 205] Log file log-2.yaml is over 5GB in size
+[2023-01-27 20:57:00] [v10.4.6]   [ERROR] [ID: 395] Version is no longer supported, please update to the latest version
+[2023-01-27 21:07:14] [v10.4.6] [WARNING] [ID: 201] Log file log-6.yaml is over 1GB in size
+[2023-01-27 21:11:41] [v10.4.6]    [INFO] [ID: 155] Generated log file log_1.xml
+[2023-01-27 21:54:31] [v10.4.6]   [ERROR] [ID: 340] Log file log-7.json is not in a recognized encoding
+[2023-01-27 22:46:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.json
+[2023-01-27 22:54:30] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.json
+[2023-01-27 23:01:13] [v10.4.6] [WARNING] [ID: 201] Log file log4.json is over 1GB in size
+[2023-01-27 23:41:29] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.3.txt
+[2023-01-27 23:44:59] [v10.4.6]    [INFO] [ID: 155] Generated log file log_3
+[2023-01-28 00:09:03] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log.3.yaml
+[2023-01-28 00:17:19] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.json
+[2023-01-28 00:37:52] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-2.log
+[2023-01-28 00:47:30] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.txt
+[2023-01-28 01:11:09] [v10.4.6] [WARNING] [ID: 201] Log file log_8.log is over 1GB in size
+[2023-01-28 01:26:58] [v10.4.6] [WARNING] [ID: 201] Log file log.2.conf is over 1GB in size
+[2023-01-28 02:03:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.conf
+[2023-01-28 02:03:43] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 134.26.179.38:62202
+[2023-01-28 02:20:07] [v10.4.6] [WARNING] [ID: 205] Log file log_5.txt is over 5GB in size
+[2023-01-28 03:22:35] [v10.4.6] [WARNING] [ID: 240] Log file log-3.log is not in a recognized file format
+[2023-01-28 03:59:15] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_1.yaml
+[2023-01-28 04:06:09] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.toml
+[2023-01-28 04:16:39] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.txt
+[2023-01-28 05:00:34] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.json
+[2023-01-28 05:46:05] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_2.json
+[2023-01-28 06:03:29] [v10.4.6] [WARNING] [ID: 205] Log file log-1.yaml is over 5GB in size
+[2023-01-28 06:13:54] [v10.4.6]    [INFO] [ID: 155] Generated log file log-5.log
+[2023-01-28 07:42:20] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.csv
+[2023-01-28 07:55:05] [v10.4.6]   [ERROR] [ID: 340] Log file log-1.txt is not in a recognized encoding
+[2023-01-28 08:38:18] [v10.4.6] [WARNING] [ID: 210] Log file log9.json is over 10GB in size
+[2023-01-28 09:15:10] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.json
+[2023-01-28 10:30:25] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.csv
+[2023-01-28 10:40:33] [v10.4.6] [WARNING] [ID: 295] New updates are available, restart the logging process to apply them
+[2023-01-28 10:45:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.txt
+[2023-01-28 10:53:44] [v10.4.6]    [INFO] [ID: 104] Log file log.2.csv has been archived and compressed
+[2023-01-28 11:15:17] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.yaml
+[2023-01-28 11:32:00] [v10.4.6] [WARNING] [ID: 205] Log file log-5.txt is over 5GB in size
+[2023-01-28 11:47:26] [v10.4.6] [WARNING] [ID: 201] Log file log_5.ini is over 1GB in size
+[2023-01-28 12:26:51] [v10.4.6] [WARNING] [ID: 260] Log file log_3.csv has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-28 12:32:38] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.xml
+[2023-01-28 12:35:19] [v10.4.6] [WARNING] [ID: 205] Log file log.1.yaml is over 5GB in size
+[2023-01-28 12:36:33] [v10.4.6]   [ERROR] [ID: 340] Log file log_1.ini is not in a recognized encoding
+[2023-01-28 13:20:03] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.txt
+[2023-01-28 13:21:58] [v10.4.6] [WARNING] [ID: 205] Log file log-9.csv is over 5GB in size
+[2023-01-28 13:30:28] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.log
+[2023-01-28 13:34:18] [v10.4.6] [WARNING] [ID: 201] Log file log-3.csv is over 1GB in size
+[2023-01-28 13:51:14] [v10.4.6] [WARNING] [ID: 205] Log file log-7.json is over 5GB in size
+[2023-01-28 13:59:04] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-28 14:19:03] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.json
+[2023-01-28 14:31:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.txt
+[2023-01-28 14:37:12] [v10.4.6]    [INFO] [ID: 155] Generated log file log_1.log
+[2023-01-28 14:43:36] [v10.4.6] [WARNING] [ID: 210] Log file log_8.txt is over 10GB in size
+[2023-01-28 14:51:34] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_4.csv
+[2023-01-28 15:23:54] [v10.4.6]   [ERROR] [ID: 340] Log file log_0.xml is not in a recognized encoding
+[2023-01-28 15:49:46] [v10.4.6] [WARNING] [ID: 205] Log file log_2.txt is over 5GB in size
+[2023-01-28 15:57:21] [v10.4.6] [WARNING] [ID: 260] Log file log-0.csv has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-28 16:10:50] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log7
+[2023-01-28 16:12:56] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.yaml
+[2023-01-28 16:21:15] [v10.4.6] [WARNING] [ID: 201] Log file log_4.json is over 1GB in size
+[2023-01-28 17:11:59] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.3
+[2023-01-28 17:25:38] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 234.35.180.169:22246
+[2023-01-28 17:32:39] [v10.4.6]    [INFO] [ID: 155] Generated log file log.2.csv
+[2023-01-28 17:44:02] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log2.yaml
+[2023-01-28 18:05:40] [v10.4.6]    [INFO] [ID: 155] Generated log file log.5
+[2023-01-28 18:37:09] [v10.4.6]    [INFO] [ID: 104] Log file log_9.toml has been archived and compressed
+[2023-01-28 18:43:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log8.txt
+[2023-01-28 18:49:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.log
+[2023-01-28 19:01:20] [v10.4.6]    [INFO] [ID: 155] Generated log file log.0.log
+[2023-01-28 20:03:41] [v10.4.6] [WARNING] [ID: 260] Log file log_8.ini has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-28 20:04:01] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.csv
+[2023-01-28 20:06:05] [v10.4.6] [WARNING] [ID: 240] Log file log-0.json is not in a recognized file format
+[2023-01-28 20:20:23] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.log
+[2023-01-28 20:31:12] [v10.4.6]   [ERROR] [ID: 340] Log file log.7.txt is not in a recognized encoding
+[2023-01-28 20:44:07] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.2.json
+[2023-01-28 20:44:15] [v10.4.6] [WARNING] [ID: 260] Log file log-8.log has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-28 21:05:32] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_0.txt
+[2023-01-28 21:09:05] [v10.4.6]    [INFO] [ID: 104] Log file log2.ini has been archived and compressed
+[2023-01-28 21:15:41] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.0.toml
+[2023-01-28 21:46:49] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_3.txt
+[2023-01-28 22:01:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.2.txt
+[2023-01-28 22:27:26] [v10.4.6]   [ERROR] [ID: 340] Log file log.5.log is not in a recognized encoding
+[2023-01-28 22:28:26] [v10.4.6] [WARNING] [ID: 201] Log file log-3.log is over 1GB in size
+[2023-01-28 22:52:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.5.log
+[2023-01-28 23:02:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.5.yml
+[2023-01-28 23:20:05] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_8.yaml
+[2023-01-28 23:54:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.yml
+[2023-01-29 00:01:10] [v10.4.6] [WARNING] [ID: 260] Log file log_7.yml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-29 00:06:07] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-2.log
+[2023-01-29 00:21:01] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-3.txt
+[2023-01-29 01:26:25] [v10.4.6] [WARNING] [ID: 210] Log file log_2.yaml is over 10GB in size
+[2023-01-29 01:33:06] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_3.txt
+[2023-01-29 02:08:08] [v10.4.6] [WARNING] [ID: 260] Log file log9.txt has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-29 02:26:32] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log7.txt
+[2023-01-29 03:05:43] [v10.4.6]    [INFO] [ID: 140] Using UTF-16 encoding for log file log_7.json
+[2023-01-29 03:24:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.log
+[2023-01-29 04:04:28] [v10.4.6] [WARNING] [ID: 201] Log file log_2.json is over 1GB in size
+[2023-01-29 04:05:31] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.1.txt
+[2023-01-29 04:26:09] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.txt
+[2023-01-29 04:59:19] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-29 05:38:11] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.yml
+[2023-01-29 05:58:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.log
+[2023-01-29 06:48:40] [v10.4.6] [WARNING] [ID: 201] Log file log-5.txt is over 1GB in size
+[2023-01-29 07:15:43] [v10.4.6] [WARNING] [ID: 210] Log file log_5.json is over 10GB in size
+[2023-01-29 07:27:39] [v10.4.6] [WARNING] [ID: 205] Log file log-0.yml is over 5GB in size
+[2023-01-29 07:32:04] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_5.log
+[2023-01-29 07:55:56] [v10.4.6]    [INFO] [ID: 155] Generated log file log-9.txt
+[2023-01-29 08:08:20] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-5.csv
+[2023-01-29 08:21:44] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.8.toml
+[2023-01-29 08:28:58] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.9.ini
+[2023-01-29 08:47:54] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log8.yaml
+[2023-01-29 09:04:16] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-0.yaml
+[2023-01-29 09:15:41] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.txt
+[2023-01-29 10:10:31] [v10.4.6] [WARNING] [ID: 201] Log file log-2.toml is over 1GB in size
+[2023-01-29 10:41:46] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log7.log
+[2023-01-29 10:46:54] [v10.4.6]   [ERROR] [ID: 340] Log file log-1.toml is not in a recognized encoding
+[2023-01-29 10:55:10] [v10.4.6]    [INFO] [ID: 140] Using UTF-16 encoding for log file log_1.json
+[2023-01-29 10:59:38] [v10.4.6]    [INFO] [ID: 155] Generated log file log-9.txt
+[2023-01-29 11:00:36] [v10.4.6] [WARNING] [ID: 201] Log file log.3.yaml is over 1GB in size
+[2023-01-29 11:23:32] [v10.4.6]    [INFO] [ID: 155] Generated log file log5.yaml
+[2023-01-29 11:24:46] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log9.conf
+[2023-01-29 11:27:54] [v10.4.6]    [INFO] [ID: 140] Using UTF-16 encoding for log file log_0.json
+[2023-01-29 11:37:05] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.xml
+[2023-01-29 12:12:39] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log-8.txt
+[2023-01-29 12:18:14] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.conf
+[2023-01-29 12:24:17] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.log
+[2023-01-29 12:54:19] [v10.4.6] [WARNING] [ID: 201] Log file log.9.yaml is over 1GB in size
+[2023-01-29 12:59:13] [v10.4.6]   [ERROR] [ID: 340] Log file log_1.yaml is not in a recognized encoding
+[2023-01-29 13:00:09] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.8.log
+[2023-01-29 13:03:39] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log.9.log
+[2023-01-29 13:08:37] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log-4.log - insufficient permissions
+[2023-01-29 14:06:05] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-6.csv
+[2023-01-29 14:09:40] [v10.4.6] [WARNING] [ID: 201] Log file log.5.yaml is over 1GB in size
+[2023-01-29 14:52:48] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log5.yml
+[2023-01-29 15:01:01] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.log
+[2023-01-29 15:07:04] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-8.csv
+[2023-01-29 15:19:51] [v10.4.6]    [INFO] [ID: 155] Generated log file log1.json
+[2023-01-29 15:25:19] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.json
+[2023-01-29 15:36:43] [v10.4.6]   [ERROR] [ID: 340] Log file log-2.conf is not in a recognized encoding
+[2023-01-29 16:02:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.yaml
+[2023-01-29 16:45:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_6.txt
+[2023-01-29 16:46:00] [v10.4.6] [WARNING] [ID: 205] Log file log.2.log is over 5GB in size
+[2023-01-29 16:53:01] [v10.4.6]    [INFO] [ID: 104] Log file log-1.txt has been archived and compressed
+[2023-01-29 17:16:17] [v10.4.6]    [INFO] [ID: 155] Generated log file log-2.conf
+[2023-01-29 17:27:19] [v10.4.6] [WARNING] [ID: 205] Log file log1.log is over 5GB in size
+[2023-01-29 18:31:19] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-1.txt
+[2023-01-29 18:42:01] [v10.4.6] [WARNING] [ID: 260] Log file log-5.log has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-29 18:59:18] [v10.4.6] [WARNING] [ID: 205] Log file log_4.yml is over 5GB in size
+[2023-01-29 19:24:39] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_9.txt
+[2023-01-29 19:35:10] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log.3.csv - disk full
+[2023-01-29 19:41:11] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-29 20:21:40] [v10.4.6] [WARNING] [ID: 205] Log file log_1.yaml is over 5GB in size
+[2023-01-29 20:52:03] [v10.4.6] [WARNING] [ID: 290] Logging process has been running for 4 days
+[2023-01-29 21:39:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.csv
+[2023-01-29 22:03:28] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.3.yaml
+[2023-01-29 22:21:55] [v10.4.6] [WARNING] [ID: 205] Log file log-1.yaml is over 5GB in size
+[2023-01-29 22:24:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log9.txt
+[2023-01-29 22:27:05] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.json
+[2023-01-29 22:45:40] [v10.4.6] [WARNING] [ID: 210] Log file log-8.json is over 10GB in size
+[2023-01-29 22:49:17] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.yaml
+[2023-01-29 23:39:48] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.yaml
+[2023-01-30 00:13:51] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-5.yml
+[2023-01-30 00:24:12] [v10.4.6] [WARNING] [ID: 210] Log file log-5.yml is over 10GB in size
+[2023-01-30 00:34:06] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-7.log
+[2023-01-30 01:27:35] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.6.ini
+[2023-01-30 01:27:53] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.conf
+[2023-01-30 01:54:40] [v10.4.6] [WARNING] [ID: 201] Log file log-0.txt is over 1GB in size
+[2023-01-30 02:18:58] [v10.4.6] [WARNING] [ID: 205] Log file log8.log is over 5GB in size
+[2023-01-30 02:27:17] [v10.4.6] [WARNING] [ID: 210] Log file log_7.txt is over 10GB in size
+[2023-01-30 03:18:32] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.yaml
+[2023-01-30 03:35:47] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.4
+[2023-01-30 03:38:06] [v10.4.6]   [ERROR] [ID: 340] Log file log-9.txt is not in a recognized encoding
+[2023-01-30 03:39:38] [v10.4.6] [WARNING] [ID: 260] Log file log.9.csv has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-30 03:50:43] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.yaml
+[2023-01-30 04:32:52] [v10.4.6]    [INFO] [ID: 155] Generated log file log.8.ini
+[2023-01-30 04:50:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log3.xml
+[2023-01-30 05:19:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.yaml
+[2023-01-30 05:43:48] [v10.4.6] [WARNING] [ID: 201] Log file log-8 is over 1GB in size
+[2023-01-30 05:56:21] [v10.4.6] [WARNING] [ID: 201] Log file log8.json is over 1GB in size
+[2023-01-30 06:10:01] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log-8.csv
+[2023-01-30 06:21:40] [v10.4.6] [WARNING] [ID: 210] Log file log-7.yml is over 10GB in size
+[2023-01-30 06:30:03] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.json
+[2023-01-30 06:30:10] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log2.yaml
+[2023-01-30 06:36:17] [v10.4.6] [WARNING] [ID: 205] Log file log_8.yml is over 5GB in size
+[2023-01-30 07:10:24] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-30 07:23:10] [v10.4.6] [WARNING] [ID: 201] Log file log_1.yml is over 1GB in size
+[2023-01-30 07:39:13] [v10.4.6]   [ERROR] [ID: 340] Log file log-0.xml is not in a recognized encoding
+[2023-01-30 08:09:09] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.4.ini
+[2023-01-30 08:37:29] [v10.4.6]   [ERROR] [ID: 395] Version is no longer supported, please update to the latest version
+[2023-01-30 08:46:24] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.txt
+[2023-01-30 09:36:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.xml
+[2023-01-30 09:51:03] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log-1.toml
+[2023-01-30 10:11:23] [v10.4.6] [WARNING] [ID: 295] New updates are available, restart the logging process to apply them
+[2023-01-30 10:31:27] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.csv
+[2023-01-30 11:06:37] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.json
+[2023-01-30 11:10:41] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log8.txt
+[2023-01-30 11:32:46] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.txt
+[2023-01-30 11:55:16] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.4.json
+[2023-01-30 12:14:41] [v10.4.6]    [INFO] [ID: 155] Generated log file log-9.txt
+[2023-01-30 13:25:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.0.toml
+[2023-01-30 13:36:34] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.yaml
+[2023-01-30 13:57:32] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.3.txt
+[2023-01-30 13:58:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.conf
+[2023-01-30 14:10:48] [v10.4.6] [WARNING] [ID: 201] Log file log3.log is over 1GB in size
+[2023-01-30 14:20:06] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log5
+[2023-01-30 14:22:57] [v10.4.6] [WARNING] [ID: 201] Log file log-4.txt is over 1GB in size
+[2023-01-30 14:30:57] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.json
+[2023-01-30 14:58:43] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log_4.json
+[2023-01-30 15:12:00] [v10.4.6] [WARNING] [ID: 205] Log file log.5.yaml is over 5GB in size
+[2023-01-30 15:16:52] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.5.ini
+[2023-01-30 15:27:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.log
+[2023-01-30 15:31:56] [v10.4.6]    [INFO] [ID: 155] Generated log file log_0.yml
+[2023-01-30 16:35:36] [v10.4.6] [WARNING] [ID: 201] Log file log-3.yml is over 1GB in size
+[2023-01-30 17:00:52] [v10.4.6]   [ERROR] [ID: 340] Log file log_3.yaml is not in a recognized encoding
+[2023-01-30 18:04:13] [v10.4.6]    [INFO] [ID: 155] Generated log file log-7.yaml
+[2023-01-30 18:30:55] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_2.txt
+[2023-01-30 18:44:19] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-6.yaml
+[2023-01-30 19:18:48] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-6.csv
+[2023-01-30 19:26:48] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-6.csv
+[2023-01-30 19:27:11] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.json
+[2023-01-30 19:27:53] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.yaml
+[2023-01-30 19:58:44] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.log
+[2023-01-30 20:01:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.log
+[2023-01-30 20:07:48] [v10.4.6] [WARNING] [ID: 260] Log file log-5.csv has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-30 20:21:21] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.json
+[2023-01-30 20:24:30] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-7.toml
+[2023-01-30 20:46:05] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.yaml
+[2023-01-30 20:48:24] [v10.4.6] [WARNING] [ID: 290] Logging process has been running for 12 days
+[2023-01-30 20:58:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9
+[2023-01-30 21:10:02] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log-5.csv
+[2023-01-30 21:29:51] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.yaml
+[2023-01-30 21:32:01] [v10.4.6]   [ERROR] [ID: 340] Log file log_9.yaml is not in a recognized encoding
+[2023-01-30 21:38:21] [v10.4.6]    [INFO] [ID: 155] Generated log file log_9.yaml
+[2023-01-30 22:47:36] [v10.4.6] [WARNING] [ID: 295] New updates are available, restart the logging process to apply them
+[2023-01-30 22:50:51] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-30 23:02:25] [v10.4.6]   [ERROR] [ID: 340] Log file log.6.yaml is not in a recognized encoding
+[2023-01-30 23:21:46] [v10.4.6] [WARNING] [ID: 205] Log file log-0.log is over 5GB in size
+[2023-01-30 23:32:57] [v10.4.6]   [ERROR] [ID: 356] Failed to connect to logging database server at 254.192.191.132:45215
+[2023-01-31 00:17:59] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.3.log
+[2023-01-31 00:52:46] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.txt
+[2023-01-31 01:19:05] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log.7.toml
+[2023-01-31 01:52:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.log
+[2023-01-31 01:54:19] [v10.4.6] [WARNING] [ID: 210] Log file log.6 is over 10GB in size
+[2023-01-31 02:36:49] [v10.4.6] [WARNING] [ID: 201] Log file log_2.log is over 1GB in size
+[2023-01-31 02:52:49] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.toml
+[2023-01-31 03:31:00] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log.8.yaml
+[2023-01-31 03:39:45] [v10.4.6] [WARNING] [ID: 210] Log file log-3.json is over 10GB in size
+[2023-01-31 04:01:18] [v10.4.6] [WARNING] [ID: 201] Log file log-6.txt is over 1GB in size
+[2023-01-31 04:13:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.8.txt
+[2023-01-31 04:45:13] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.2.yaml
+[2023-01-31 05:29:11] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.txt
+[2023-01-31 05:44:23] [v10.4.6]   [ERROR] [ID: 340] Log file log-7.log is not in a recognized encoding
+[2023-01-31 05:52:20] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.log
+[2023-01-31 06:22:51] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-2.csv
+[2023-01-31 07:04:51] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_9.ini
+[2023-01-31 07:12:46] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.log
+[2023-01-31 07:56:14] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log.2.log
+[2023-01-31 09:14:19] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.conf
+[2023-01-31 09:23:57] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.3.csv
+[2023-01-31 10:19:25] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log8.csv
+[2023-01-31 10:22:04] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.toml
+[2023-01-31 10:25:12] [v10.4.6] [WARNING] [ID: 201] Log file log-3.log is over 1GB in size
+[2023-01-31 10:48:15] [v10.4.6] [WARNING] [ID: 210] Log file log_1.xml is over 10GB in size
+[2023-01-31 11:06:36] [v10.4.6] [WARNING] [ID: 210] Log file log-0 is over 10GB in size
+[2023-01-31 11:40:47] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log-0.json
+[2023-01-31 12:00:44] [v10.4.6] [WARNING] [ID: 205] Log file log-9.txt is over 5GB in size
+[2023-01-31 12:14:24] [v10.4.6] [WARNING] [ID: 210] Log file log-0.json is over 10GB in size
+[2023-01-31 12:36:11] [v10.4.6] [WARNING] [ID: 201] Log file log-4.log is over 1GB in size
+[2023-01-31 13:08:09] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.csv
+[2023-01-31 13:23:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.8.csv
+[2023-01-31 13:24:16] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_3.txt
+[2023-01-31 13:31:48] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.txt
+[2023-01-31 13:37:26] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log6.yaml
+[2023-01-31 13:41:32] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.txt
+[2023-01-31 13:45:31] [v10.4.6] [WARNING] [ID: 210] Log file log_3.txt is over 10GB in size
+[2023-01-31 13:54:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log8.log
+[2023-01-31 14:01:27] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.1.json
+[2023-01-31 14:34:16] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.csv
+[2023-01-31 14:38:29] [v10.4.6] [WARNING] [ID: 260] Log file log-5.json has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-31 15:41:14] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.txt
+[2023-01-31 16:08:22] [v10.4.6]   [ERROR] [ID: 340] Log file log.0.log is not in a recognized encoding
+[2023-01-31 16:12:41] [v10.4.6] [WARNING] [ID: 205] Log file log-0.yaml is over 5GB in size
+[2023-01-31 17:28:07] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-8.txt
+[2023-01-31 17:51:35] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-1.log
+[2023-01-31 17:57:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.yaml
+[2023-01-31 18:12:03] [v10.4.6] [WARNING] [ID: 260] Log file log.6.yaml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-31 20:06:32] [v10.4.6] [WARNING] [ID: 260] Log file log-7.log has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-31 20:20:57] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.2.json
+[2023-01-31 20:25:40] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.json
+[2023-01-31 20:35:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.log
+[2023-01-31 20:40:47] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log_2.txt
+[2023-01-31 20:52:36] [v10.4.6]    [INFO] [ID: 155] Generated log file log.4.toml
+[2023-01-31 21:15:16] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-01-31 21:17:56] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_1.txt
+[2023-01-31 21:19:32] [v10.4.6] [WARNING] [ID: 205] Log file log-5.yaml is over 5GB in size
+[2023-01-31 22:38:01] [v10.4.6] [WARNING] [ID: 295] New updates are available, restart the logging process to apply them
+[2023-01-31 22:55:12] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log_1.log - insufficient permissions
+[2023-01-31 23:20:08] [v10.4.6] [WARNING] [ID: 260] Log file log-8.yml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-01-31 23:56:41] [v10.4.6] [WARNING] [ID: 201] Log file log-9.yaml is over 1GB in size
+[2023-02-01 00:27:30] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.yaml
+[2023-02-01 00:35:02] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-6
+[2023-02-01 00:43:25] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log8.toml
+[2023-02-01 00:57:47] [v10.4.6] [WARNING] [ID: 201] Log file log.2.log is over 1GB in size
+[2023-02-01 01:06:51] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.0.conf
+[2023-02-01 01:24:09] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-8.txt
+[2023-02-01 01:41:00] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log_4.yml
+[2023-02-01 01:50:36] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.6.toml
+[2023-02-01 01:58:33] [v10.4.6] [WARNING] [ID: 240] Log file log7.yaml is not in a recognized file format
+[2023-02-01 02:14:57] [v10.4.6] [WARNING] [ID: 201] Log file log_6.txt is over 1GB in size
+[2023-02-01 02:54:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.toml
+[2023-02-01 03:08:58] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.ini
+[2023-02-01 03:29:01] [v10.4.6] [WARNING] [ID: 290] Logging process has been running for 7 days
+[2023-02-01 03:31:44] [v10.4.6] [WARNING] [ID: 260] Log file log_4.csv has been deleted as it has exceeded the retention period of 8 weeks
+[2023-02-01 03:40:30] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-9.log
+[2023-02-01 03:55:01] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.txt
+[2023-02-01 04:02:53] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.txt
+[2023-02-01 04:10:44] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.yaml
+[2023-02-01 04:37:10] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_1.json
+[2023-02-01 05:18:01] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-1.toml
+[2023-02-01 05:26:52] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_7.toml
+[2023-02-01 06:24:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.8.txt
+[2023-02-01 06:57:24] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_7.log
+[2023-02-01 07:26:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log3.yaml
+[2023-02-01 07:32:21] [v10.4.6]    [INFO] [ID: 155] Generated log file log.6
+[2023-02-01 07:58:21] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.yaml
+[2023-02-01 08:02:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.conf
+[2023-02-01 09:27:14] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-6.yml
+[2023-02-01 09:29:59] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.xml
+[2023-02-01 09:40:52] [v10.4.6] [WARNING] [ID: 201] Log file log-5.json is over 1GB in size
+[2023-02-01 09:51:20] [v10.4.6] [WARNING] [ID: 201] Log file log-7.csv is over 1GB in size
+[2023-02-01 10:02:15] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.json
+[2023-02-01 10:03:20] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log-2.log
+[2023-02-01 10:11:29] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_3.conf
+[2023-02-01 10:42:25] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-1.log
+[2023-02-01 11:03:18] [v10.4.6] [WARNING] [ID: 205] Log file log6.ini is over 5GB in size
+[2023-02-01 11:09:29] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.yaml
+[2023-02-01 11:22:14] [v10.4.6] [WARNING] [ID: 240] Log file log.6.csv is not in a recognized file format
+[2023-02-01 11:29:51] [v10.4.6] [WARNING] [ID: 205] Log file log0.yaml is over 5GB in size
+[2023-02-01 11:40:24] [v10.4.6]    [INFO] [ID: 155] Generated log file log-5.txt
+[2023-02-01 11:52:00] [v10.4.6]    [INFO] [ID: 155] Generated log file log_7.json
+[2023-02-01 11:55:48] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log4.yaml
+[2023-02-01 12:21:44] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log.8.json
+[2023-02-01 12:28:35] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log-6.yaml
+[2023-02-01 13:47:09] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-9.txt
+[2023-02-01 14:29:04] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.yaml
+[2023-02-01 16:06:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.4.txt
+[2023-02-01 16:17:27] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.conf
+[2023-02-01 16:18:01] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2
+[2023-02-01 16:19:45] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log6.log
+[2023-02-01 16:29:12] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-1.txt
+[2023-02-01 16:57:01] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_6.ini
+[2023-02-01 16:57:51] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_3.yaml
+[2023-02-01 17:10:14] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.2.yaml
+[2023-02-01 17:11:08] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 233.134.123.202:11562
+[2023-02-01 17:13:21] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log.9
+[2023-02-01 17:48:30] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.6.yaml
+[2023-02-01 17:49:28] [v10.4.6] [WARNING] [ID: 201] Log file log.2.txt is over 1GB in size
+[2023-02-01 17:51:45] [v10.4.6]   [ERROR] [ID: 340] Log file log.8.json is not in a recognized encoding
+[2023-02-01 18:06:42] [v10.4.6] [WARNING] [ID: 210] Log file log_8.json is over 10GB in size
+[2023-02-01 18:28:16] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log1.toml
+[2023-02-01 18:58:35] [v10.4.6] [WARNING] [ID: 260] Log file log.3.log has been deleted as it has exceeded the retention period of 8 weeks
+[2023-02-01 19:03:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.8.csv
+[2023-02-01 19:05:21] [v10.4.6] [WARNING] [ID: 235] Log file log_1.log appears to have been manually edited
+[2023-02-01 19:28:32] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9
+[2023-02-01 19:28:46] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.xml
+[2023-02-01 19:30:06] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-7
+[2023-02-01 19:44:51] [v10.4.6] [WARNING] [ID: 210] Log file log.8.log is over 10GB in size
+[2023-02-01 20:11:41] [v10.4.6] [WARNING] [ID: 205] Log file log-2.ini is over 5GB in size
+[2023-02-01 20:16:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.yml
+[2023-02-01 21:04:45] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_3.csv
+[2023-02-01 22:11:38] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.csv
+[2023-02-01 22:18:42] [v10.4.6]    [INFO] [ID: 104] Log file log-8.conf has been archived and compressed
+[2023-02-01 22:41:52] [v10.4.6] [WARNING] [ID: 205] Log file log-1.txt is over 5GB in size
+[2023-02-01 22:58:16] [v10.4.6] [WARNING] [ID: 201] Log file log-6.xml is over 1GB in size
+[2023-02-01 23:03:05] [v10.4.6] [WARNING] [ID: 205] Log file log_2.csv is over 5GB in size
+[2023-02-01 23:08:44] [v10.4.6]   [ERROR] [ID: 340] Log file log-5.xml is not in a recognized encoding
+[2023-02-01 23:36:56] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log5.toml
+[2023-02-01 23:42:15] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.7.txt
+[2023-02-01 23:53:15] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.yaml
+[2023-02-01 23:53:32] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log.0.yaml
+[2023-02-02 01:22:25] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.5.json
+[2023-02-02 01:22:26] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log-2.txt - file is corrupted
+[2023-02-02 01:26:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log5.toml
+[2023-02-02 01:41:32] [v10.4.6] [WARNING] [ID: 205] Log file log_5.csv is over 5GB in size
+[2023-02-02 01:55:54] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.txt
+[2023-02-02 02:04:10] [v10.4.6] [WARNING] [ID: 235] Log file log9.xml appears to have been manually edited
+[2023-02-02 03:11:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.txt
+[2023-02-02 03:51:14] [v10.4.6] [WARNING] [ID: 210] Log file log_4.yml is over 10GB in size
+[2023-02-02 04:23:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.toml
+[2023-02-02 04:29:27] [v10.4.6] [WARNING] [ID: 201] Log file log_4.ini is over 1GB in size
+[2023-02-02 04:46:07] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.toml
+[2023-02-02 04:47:33] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-1.json
+[2023-02-02 05:03:10] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7.txt
+[2023-02-02 05:05:57] [v10.4.6] [WARNING] [ID: 201] Log file log-6.csv is over 1GB in size
+[2023-02-02 05:16:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.6.log
+[2023-02-02 05:45:26] [v10.4.6]   [ERROR] [ID: 340] Log file log_9.json is not in a recognized encoding
+[2023-02-02 06:06:37] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log.2.yml
+[2023-02-02 06:37:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.yml
+[2023-02-02 07:06:09] [v10.4.6] [WARNING] [ID: 201] Log file log-0.conf is over 1GB in size
+[2023-02-02 07:07:33] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.txt
+[2023-02-02 07:42:45] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.4.log
+[2023-02-02 08:18:39] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 108.82.169.191:29484
+[2023-02-02 08:40:53] [v10.4.6] [WARNING] [ID: 205] Log file log_1.csv is over 5GB in size
+[2023-02-02 09:34:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_3.yaml
+[2023-02-02 09:56:34] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.conf
+[2023-02-02 10:07:23] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.yaml
+[2023-02-02 10:37:51] [v10.4.6]    [INFO] [ID: 155] Generated log file log-6.log
+[2023-02-02 10:55:01] [v10.4.6]   [ERROR] [ID: 340] Log file log.9.json is not in a recognized encoding
+[2023-02-02 11:23:15] [v10.4.6] [WARNING] [ID: 240] Log file log7.yaml is not in a recognized file format
+[2023-02-02 11:52:55] [v10.4.6] [WARNING] [ID: 240] Log file log_6.log is not in a recognized file format
+[2023-02-02 12:31:31] [v10.4.6]    [INFO] [ID: 155] Generated log file log_7.toml
+[2023-02-02 12:40:33] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log-8.csv
+[2023-02-02 13:08:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.yaml
+[2023-02-02 13:28:41] [v10.4.6] [WARNING] [ID: 295] New updates are available, restart the logging process to apply them
+[2023-02-02 14:11:36] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.json
+[2023-02-02 15:25:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.log
+[2023-02-02 15:34:48] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-6.yml
+[2023-02-02 16:16:06] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log-0.conf - disk full
+[2023-02-02 16:27:28] [v10.4.6] [WARNING] [ID: 240] Log file log_5.csv is not in a recognized file format
+[2023-02-02 16:37:56] [v10.4.6] [WARNING] [ID: 240] Log file log_1.log is not in a recognized file format
+[2023-02-02 16:59:04] [v10.4.6] [WARNING] [ID: 201] Log file log_3.csv is over 1GB in size
+[2023-02-02 18:52:16] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-3.yaml
+[2023-02-02 18:58:01] [v10.4.6] [WARNING] [ID: 201] Log file log-4.yaml is over 1GB in size
+[2023-02-02 19:37:22] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.ini
+[2023-02-02 19:39:26] [v10.4.6] [WARNING] [ID: 201] Log file log.1 is over 1GB in size
+[2023-02-02 19:47:53] [v10.4.6]   [ERROR] [ID: 395] Version is no longer supported, please update to the latest version
+[2023-02-02 20:22:06] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-4.xml
+[2023-02-02 20:25:03] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_0.ini
+[2023-02-02 20:29:20] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.txt
+[2023-02-02 20:29:42] [v10.4.6] [WARNING] [ID: 210] Log file log_0.yaml is over 10GB in size
+[2023-02-02 20:33:06] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.txt
+[2023-02-02 21:01:05] [v10.4.6] [WARNING] [ID: 201] Log file log_6.csv is over 1GB in size
+[2023-02-02 21:33:16] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log.6.txt
+[2023-02-02 21:34:05] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_6.yaml
+[2023-02-02 21:41:12] [v10.4.6]   [ERROR] [ID: 395] Version is no longer supported, please update to the latest version
+[2023-02-02 23:43:24] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log_7.ini - file is corrupted
+[2023-02-03 00:05:12] [v10.4.6] [WARNING] [ID: 201] Log file log-4.json is over 1GB in size
+[2023-02-03 00:12:30] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.yaml
+[2023-02-03 00:32:04] [v10.4.6] [WARNING] [ID: 235] Log file log-9.log appears to have been manually edited
+[2023-02-03 00:32:14] [v10.4.6]    [INFO] [ID: 104] Log file log.0.json has been archived and compressed
+[2023-02-03 01:26:38] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.json
+[2023-02-03 01:37:37] [v10.4.6] [WARNING] [ID: 201] Log file log-0.log is over 1GB in size
+[2023-02-03 01:40:09] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_1.csv
+[2023-02-03 01:43:08] [v10.4.6] [WARNING] [ID: 201] Log file log_3.xml is over 1GB in size
+[2023-02-03 02:01:56] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-8.csv
+[2023-02-03 02:11:57] [v10.4.6] [WARNING] [ID: 201] Log file log3.toml is over 1GB in size
+[2023-02-03 02:43:20] [v10.4.6] [WARNING] [ID: 201] Log file log.9.csv is over 1GB in size
+[2023-02-03 02:52:05] [v10.4.6] [WARNING] [ID: 201] Log file log.1.txt is over 1GB in size
+[2023-02-03 02:59:59] [v10.4.6] [WARNING] [ID: 201] Log file log_9.txt is over 1GB in size
+[2023-02-03 03:35:30] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9.xml
+[2023-02-03 03:45:53] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log4.log
+[2023-02-03 03:49:19] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.conf
+[2023-02-03 04:12:15] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log-5.txt - disk full
+[2023-02-03 04:24:19] [v10.4.6] [WARNING] [ID: 260] Log file log-1.conf has been deleted as it has exceeded the retention period of 8 weeks
+[2023-02-03 04:56:39] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.2.yml
+[2023-02-03 05:46:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_2.yaml
+[2023-02-03 06:31:15] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.yaml
+[2023-02-03 06:33:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_6.json
+[2023-02-03 08:00:21] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.csv
+[2023-02-03 08:09:22] [v10.4.6] [WARNING] [ID: 290] Logging process has been running for 27 days
+[2023-02-03 08:32:36] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-02-03 08:53:34] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log8.toml
+[2023-02-03 09:40:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.ini
+[2023-02-03 09:43:08] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.yaml
+[2023-02-03 09:51:08] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_1.yaml
+[2023-02-03 09:57:50] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.txt
+[2023-02-03 09:58:51] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.xml
+[2023-02-03 09:59:14] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.log
+[2023-02-03 10:18:14] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_7.csv
+[2023-02-03 11:20:13] [v10.4.6] [WARNING] [ID: 205] Log file log-5.txt is over 5GB in size
+[2023-02-03 11:31:53] [v10.4.6] [WARNING] [ID: 205] Log file log-3.yml is over 5GB in size
+[2023-02-03 11:37:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.txt
+[2023-02-03 12:18:38] [v10.4.6]   [ERROR] [ID: 356] Failed to connect to logging database server at 183.118.151.84:1281
+[2023-02-03 12:22:20] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_4.txt
+[2023-02-03 12:46:38] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.7.txt
+[2023-02-03 12:48:35] [v10.4.6] [WARNING] [ID: 210] Log file log_4.log is over 10GB in size
+[2023-02-03 12:58:08] [v10.4.6]   [ERROR] [ID: 340] Log file log_3.yaml is not in a recognized encoding
+[2023-02-03 13:16:26] [v10.4.6] [WARNING] [ID: 201] Log file log6 is over 1GB in size
+[2023-02-03 13:21:44] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-7.conf
+[2023-02-03 13:24:35] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-8.yaml
+[2023-02-03 13:57:54] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.9.xml
+[2023-02-03 14:05:43] [v10.4.6] [WARNING] [ID: 210] Log file log_0.yaml is over 10GB in size
+[2023-02-03 14:08:30] [v10.4.6] [WARNING] [ID: 201] Log file log-0.yaml is over 1GB in size
+[2023-02-03 14:16:56] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.1.txt
+[2023-02-03 15:01:20] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-4.txt
+[2023-02-03 15:31:17] [v10.4.6] [WARNING] [ID: 201] Log file log_5.ini is over 1GB in size
+[2023-02-03 15:52:29] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_2.txt
+[2023-02-03 16:07:43] [v10.4.6] [WARNING] [ID: 201] Log file log_1.yml is over 1GB in size
+[2023-02-03 16:14:39] [v10.4.6] [WARNING] [ID: 295] New updates are available, restart the logging process to apply them
+[2023-02-03 16:31:33] [v10.4.6] [WARNING] [ID: 205] Log file log_0.log is over 5GB in size
+[2023-02-03 16:44:09] [v10.4.6]    [INFO] [ID: 155] Generated log file log_7.json
+[2023-02-03 16:56:01] [v10.4.6]    [INFO] [ID: 104] Log file log-3.txt has been archived and compressed
+[2023-02-03 17:10:16] [v10.4.6]   [ERROR] [ID: 350] Failed to write to log file log8.json - file is corrupted
+[2023-02-03 17:59:12] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log-9.csv
+[2023-02-03 17:59:29] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log_3
+[2023-02-03 18:00:02] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.7.yml
+[2023-02-03 18:24:22] [v10.4.6]    [INFO] [ID: 155] Generated log file log-7.csv
+[2023-02-03 19:03:18] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_8.yaml
+[2023-02-03 19:47:00] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-0.txt
+[2023-02-03 20:12:26] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-1.log
+[2023-02-03 20:21:11] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.log
+[2023-02-03 21:51:22] [v10.4.6] [WARNING] [ID: 210] Log file log_6.txt is over 10GB in size
+[2023-02-03 22:01:41] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3
+[2023-02-03 22:29:46] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log7.log
+[2023-02-03 22:51:53] [v10.4.6]    [INFO] [ID: 155] Generated log file log_7.yaml
+[2023-02-03 22:59:59] [v10.4.6]   [ERROR] [ID: 340] Log file log_1.conf is not in a recognized encoding
+[2023-02-03 23:40:24] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.toml
+[2023-02-04 01:06:29] [v10.4.6] [WARNING] [ID: 205] Log file log_6.log is over 5GB in size
+[2023-02-04 01:12:48] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log.1.csv
+[2023-02-04 01:16:25] [v10.4.6] [WARNING] [ID: 298] Logging process has been resumed by administrator
+[2023-02-04 01:29:14] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_4.json
+[2023-02-04 01:42:29] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.log
+[2023-02-04 02:02:22] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9
+[2023-02-04 02:06:13] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_2.yaml
+[2023-02-04 02:11:36] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.ini
+[2023-02-04 02:20:42] [v10.4.6] [WARNING] [ID: 201] Log file log-1.txt is over 1GB in size
+[2023-02-04 02:36:33] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log-6.log
+[2023-02-04 02:38:32] [v10.4.6] [WARNING] [ID: 205] Log file log2.xml is over 5GB in size
+[2023-02-04 03:31:38] [v10.4.6]    [INFO] [ID: 104] Log file log-4.json has been archived and compressed
+[2023-02-04 03:42:23] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.6.conf
+[2023-02-04 03:46:50] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 128.162.236.54:59204
+[2023-02-04 04:34:17] [v10.4.6]    [INFO] [ID: 155] Generated log file log_8.txt
+[2023-02-04 04:44:22] [v10.4.6]   [ERROR] [ID: 340] Log file log5.yaml is not in a recognized encoding
+[2023-02-04 05:17:43] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log-7.yaml
+[2023-02-04 05:42:41] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-3.txt
+[2023-02-04 05:53:34] [v10.4.6] [WARNING] [ID: 299] Logging process has been suspended by administrator
+[2023-02-04 05:55:55] [v10.4.6] [WARNING] [ID: 260] Log file log-9.conf has been deleted as it has exceeded the retention period of 8 weeks
+[2023-02-04 06:50:10] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log.1.log
+[2023-02-04 06:58:26] [v10.4.6] [WARNING] [ID: 260] Log file log-3.csv has been deleted as it has exceeded the retention period of 8 weeks
+[2023-02-04 07:08:29] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.txt
+[2023-02-04 07:23:55] [v10.4.6] [WARNING] [ID: 205] Log file log-7.txt is over 5GB in size
+[2023-02-04 08:13:45] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_5.log
+[2023-02-04 08:54:05] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-6.txt
+[2023-02-04 08:57:48] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_9
+[2023-02-04 09:06:07] [v10.4.6] [WARNING] [ID: 210] Log file log.5.txt is over 10GB in size
+[2023-02-04 09:29:41] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.json
+[2023-02-04 10:04:49] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 217.173.13.238:1744
+[2023-02-04 10:16:21] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_5.txt
+[2023-02-04 11:31:47] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.ini
+[2023-02-04 11:41:50] [v10.4.6] [WARNING] [ID: 205] Log file log_1.toml is over 5GB in size
+[2023-02-04 11:53:28] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.ini
+[2023-02-04 12:34:18] [v10.4.6]    [INFO] [ID: 156] Connected to logging database server at 143.246.125.3:8297
+[2023-02-04 12:37:39] [v10.4.6] [WARNING] [ID: 201] Log file log-1.log is over 1GB in size
+[2023-02-04 12:47:25] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log.5.txt
+[2023-02-04 12:49:40] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_7
+[2023-02-04 13:54:53] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log.2.txt
+[2023-02-04 14:09:05] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log_5
+[2023-02-04 14:15:27] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-5.yaml
+[2023-02-04 14:15:52] [v10.4.6] [WARNING] [ID: 205] Log file log_9.log is over 5GB in size
+[2023-02-04 14:25:10] [v10.4.6] [WARNING] [ID: 205] Log file log_1.ini is over 5GB in size
+[2023-02-04 15:24:35] [v10.4.6]    [INFO] [ID: 140] Using ASCII encoding for log file log.0.log
+[2023-02-04 15:52:05] [v10.4.6]    [INFO] [ID: 155] Generated log file log-5.toml
+[2023-02-04 16:14:49] [v10.4.6]    [INFO] [ID: 140] Using UTF-32 encoding for log file log_3.ini
+[2023-02-04 16:31:58] [v10.4.6] [WARNING] [ID: 201] Log file log_9.yaml is over 1GB in size
+[2023-02-04 16:46:05] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log1.xml
+[2023-02-04 17:08:47] [v10.4.6] [WARNING] [ID: 201] Log file log_9.xml is over 1GB in size
+[2023-02-04 19:16:14] [v10.4.6]   [ERROR] [ID: 356] Failed to connect to logging database server at 122.21.219.253:47419
+[2023-02-04 20:14:25] [v10.4.6]    [INFO] [ID: 131] Acquired lock on log file log_6.yaml
+[2023-02-04 20:15:27] [v10.4.6]   [ERROR] [ID: 331] Failed to acquire lock on log file log.9.json
+[2023-02-04 20:18:00] [v10.4.6]    [INFO] [ID: 140] Using UTF-8 encoding for log file log_3.xml
+[2023-02-04 20:23:07] [v10.4.6]    [INFO] [ID: 155] Generated log file log6.conf
+[2023-02-04 20:48:42] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log_6.txt
+[2023-02-04 21:04:36] [v10.4.6] [WARNING] [ID: 260] Log file log.9.xml has been deleted as it has exceeded the retention period of 8 weeks
+[2023-02-04 21:27:40] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-9.txt
+[2023-02-04 22:05:55] [v10.4.6]    [INFO] [ID: 150] Generated and wrote log message to log file log-2.log
+[2023-02-04 22:34:06] [v10.4.6] [WARNING] [ID: 235] Log file log.3.txt appears to have been manually edited
+[2023-02-04 22:59:41] [v10.4.6] [WARNING] [ID: 210] Log file log4.txt is over 10GB in size
